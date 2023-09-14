@@ -1,6 +1,6 @@
 name: tutorial
 
-python_env: python_env.yaml
+virtualenv: python_env.yaml
 
 entry_points:
   main:
