@@ -1,0 +1,10 @@
+python: 3.10.12
+build_dependencies:
+- pip==23.2.1
+- numpy>=1.14.3
+- pandas>=1.0.0
+- scikit-learn>0.19.1
+- setuptools==68.1.2
+- wheel==0.41.2
+dependencies:
+- -r requirements.txt
